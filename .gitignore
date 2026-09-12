@@ -1,0 +1,16 @@
+# Generated local package repository and GitHub Release staging assets.
+# They are uploaded by scripts/publish-repo.sh; they are not Git content.
+/x86_64/*.pkg.tar.zst
+/x86_64/*.pkg.tar.*
+/x86_64/*.old
+/x86_64/shinkanzaba.db
+/x86_64/shinkanzaba.db.tar.gz
+/x86_64/shinkanzaba.files
+/x86_64/shinkanzaba.files.tar.gz
+/dist/x86_64/*.pkg.tar.zst
+/dist/x86_64/*.pkg.tar.*
+/dist/x86_64/*.old
+/dist/x86_64/shinkanzaba.db
+/dist/x86_64/shinkanzaba.db.tar.gz
+/dist/x86_64/shinkanzaba.files
+/dist/x86_64/shinkanzaba.files.tar.gz
